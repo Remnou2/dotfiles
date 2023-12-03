@@ -1,0 +1,5 @@
+(global-set-key "\C-n" 'tab-bar-new-tab)
+(global-set-key "\C-q" 'tab-close)
+(global-set-key "\C-t" 'treemacs)
+(global-set-key "\C-A" 'treemacs-add-project)
+(global-set-key "\C-D" 'treemacs-remove-project-from-workspace)
